@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Firstawscore.Model;
 
 namespace Firstawscore.Controllers
 {
